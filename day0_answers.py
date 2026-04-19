@@ -3,7 +3,6 @@
 # Ensure the root directory is in the path for imports
 import os
 import sys
-
 # %%
 import os
 print(os.getcwd())
