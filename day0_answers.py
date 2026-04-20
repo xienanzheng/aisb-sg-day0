@@ -13,3 +13,9 @@ import requests
 from typing import Callable
 
 print("It works!")
+
+# %% [markdown]
+from day0_test import test_prerequisites
+# Run the prerequisite checks
+test_prerequisites()
+# %%
